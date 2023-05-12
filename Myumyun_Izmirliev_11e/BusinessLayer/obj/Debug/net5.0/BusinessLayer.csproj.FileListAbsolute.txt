@@ -1,0 +1,30 @@
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+E:\MI\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

@@ -1,0 +1,36 @@
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\BusinessLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\BusinessLayer.pdb
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+E:\MI\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\refint\DataLayer.dll
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+C:\Users\Myumyun\Desktop\New folder\Myumyun_Izmirliev_11e\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
